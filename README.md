@@ -1,5 +1,5 @@
 # Mini
-Mini Python Text Editor 
+Mini Text Editor in Python 
 
 Usage: root@example→ python mini.py
 
